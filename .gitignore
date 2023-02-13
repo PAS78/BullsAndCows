@@ -1,0 +1,35 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Bulls and Cows/*
+!/Bulls and Cows/task/
+/Bulls and Cows/task/*
+!/Bulls and Cows/task/src
+
+# Project exclude paths
+/Topics/Floating-point types/Area of a circle/out/
+/Topics/Floating-point types/Area of a circle/out/production/classes/
+/Topics/Floating-point types/Distance/out/
+/Topics/Floating-point types/Distance/out/production/classes/
+/Topics/Floating-point types/Find X/out/
+/Topics/Floating-point types/Find X/out/production/classes/
+/Topics/Floating-point types/Liquid pressure/out/
+/Topics/Floating-point types/Liquid pressure/out/production/classes/
+/Topics/Math library/Heron's formula/out/
+/Topics/Math library/Heron's formula/out/production/classes/
+/Topics/Math library/Pow/out/
+/Topics/Math library/Pow/out/production/classes/
+/Topics/Math library/Quadratic equation/out/
+/Topics/Math library/Quadratic equation/out/production/classes/
